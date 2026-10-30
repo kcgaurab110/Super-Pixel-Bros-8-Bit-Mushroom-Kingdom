@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# AI Studio internal artifacts and configuration
+.aistudio/
+.aistudio*
+skills/

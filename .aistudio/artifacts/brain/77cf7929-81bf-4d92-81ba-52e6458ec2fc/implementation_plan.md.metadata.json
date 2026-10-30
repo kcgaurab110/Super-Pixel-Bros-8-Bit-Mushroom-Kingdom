@@ -1,6 +1,0 @@
-{
-  "summary":  "Implementation plan for Super Mario-style side-scrolling platformer featuring authentic 8-bit canvas rendering, tiered power-up system (Small, Super, Fire Flower, Starman), hidden coin blocks, enemy stomping and shell kicking physics, procedural 8-bit Web Audio synth sound effects, multi-stage campaign, and responsive controls.",
-  "updatedAt":  "2026-10-30T11:22:33.846015224Z",
-  "requestFeedback":  true,
-  "userFacing":  true
-}
