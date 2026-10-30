@@ -1,0 +1,6 @@
+{
+  "name": "Super Pixel Bros: 8-Bit Mushroom Kingdom",
+  "description": "An authentic retro 8-bit side-scrolling platformer featuring tiered power-ups, hidden coin blocks, enemies, and multi-stage adventure gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
